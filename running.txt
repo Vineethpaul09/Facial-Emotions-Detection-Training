@@ -1,0 +1,10 @@
+Run procedure
+
+Save the Dataset (sa.csv):
+First run the train.ipynb in the jupyter notebook
+automatically model.json and model_filters files will be saved
+
+Or else you can directly test_video.py program in IDE or cmd but save the files:
+model.json and model_filters files.
+
+then python test_video.py

@@ -1,0 +1,15 @@
+requirements for running the program 
+
+pip install python==3.7.9
+pip install Numpy
+pip install OpenCV==4.4.0
+pip install tensorflow==1.15.3
+pip install keras==2.2.4
+pip install matplotlib
+pip install pandas
+pip install scikit-learn==1.0.1
+pip install seaborn==0.11.2
+timeit
+OS
+
+
